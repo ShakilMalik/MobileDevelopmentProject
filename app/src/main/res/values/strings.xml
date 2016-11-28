@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MobileDevelopmentProject</string>
+    <string name="addButtonText">+</string>
+    <string name="addExpenseBtnText">Add Transaction</string>
+    <string name="addIncomeBtnText">Add Income</string>
+    <string name="dataLabel">Date:</string>
+    <string name="repeatLabel">Repeat Monthly:</string>
+    <string name="catergoryLabel">Category:</string>
+    <string name="amountLabel">Amount:</string>
+    <string name="accountLabel">Account:</string>
+    <string name="addPhoto">Add Photo:</string>
+    <string name="buttonLabelIncome">Add Income</string>
+    <string name="buttonLabelExpense">Add Transaction</string>
+    <string name="dateHint">MMM, DD, YYYY</string>
+    <string name="categoryHint">Pick a Category</string>
+    <string name="noteLabel">Name:</string>
+    <string name="hintNote">Area to Provide Details on the Transaction</string>
+    <string name="hintAmount">Amount in Dollars</string>
+    <string name="hintIncomeNote">Name of transaction</string>
+    <string name="contentAddPhotoDesc">Add a Photo</string>
+
+    <string-array name="categories">
+        <item>Bill</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Gift</item>
+        <item>Groceries</item>
+        <item>Household</item>
+        <item>Travel</item>
+        <item>Personal</item>
+        <item>Other</item>
+    </string-array>
+</resources>
